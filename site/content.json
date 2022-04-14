@@ -1,0 +1,67 @@
+{
+  "name": "Token Page",
+  "tagline": "Make your NFT communities fall in love 😍",
+  "description": "<This is what will show under your site name in Google search results and when you>",
+  "keywords": [],
+  "company": "Token Page",
+  "companyUrl": "https://tokenpage.xyz",
+  "faviconImageUrl": "/assets/favicon.svg",
+  "socialCardImageUrl": "<Use media to upload your social media image>",
+  "shouldHideAttribution": true,
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero-buttons-1",
+      "titleText": "Make your NFT communities fall in love 😍",
+      "subtitleText": "Reach out to be one of the first of the new wave of NFT projects",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "buttons": [
+        {
+          "mode": "primary",
+          "text": "Be the first",
+          "target": "mailto:hello@milliondollartokenpage.com?cc=arthur@milliondollartokenpage.com;krishan@milliondollartokenpage.com&subject=I%20want%20to%20supercharge%20my%20NFT%20project",
+          "iconIdRight": "ion-heart"
+        }
+      ],
+      "logoImageUrl": "/assets/logo-bordered.png"
+    },
+    {
+      "type": "buttons-1",
+      "buttons": [
+        {
+          "mode": "primary",
+          "text": "Get in touch",
+          "target": "mailto:hello@milliondollartokenpage.com?cc=arthur@milliondollartokenpage.com;krishan@milliondollartokenpage.com&subject=I%20want%20you%20to%20build%20my%20NFT"
+        }
+      ],
+      "titleText": "We also do consulting...",
+      "subtitleText": "If you'd like us to build your NFT project we'd be glad to help. We've helped build some pretty big names in NFTs including [Sprite Club](https://spriteclubnft.com), [Creepz](https://creepz.co) and of course our own [MillionDollarTokenPage](https://milliondollartokenpage.com).\n\n\nWe can run your image generation, build a minting site and of course write fully customised smart contracts."
+    },
+    {
+      "type": "footer-1",
+      "iconLinks": [
+        {
+          "iconId": "ion-logo-twitter",
+          "label": "Twitter",
+          "target": "https://twitter.com/everypagehq"
+        },
+        {
+          "iconId": "ion-logo-linkedin",
+          "label": "LinkedIn",
+          "target": "https://linkedin.com/company/kibalabs"
+        },
+        {
+          "iconId": "ion-logo-github",
+          "label": "GitHub",
+          "target": "https://github.com/kibalabs"
+        },
+        {
+          "label": "Another link",
+          "target": "https://www.kibalabs.com"
+        }
+      ]
+    }
+  ]
+}
