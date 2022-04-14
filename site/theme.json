@@ -1,0 +1,52 @@
+{
+  "colors": {
+    "brandPrimary": "#F72585",
+    "brandSecondary": "#B5179E",
+    "background": "#000000"
+  },
+  "fonts": {
+    "main": {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap"
+    }
+  },
+  "texts": {
+    "default": {
+      "font-family": "Montserrat, apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif"
+    },
+    "heroSectionTitle": {
+      "font-size": "1.5em"
+    }
+  },
+  "buttons": {
+    "default": {
+      "normal": {
+        "focus": {
+          "background": {
+            "box-shadow": "0 4px 8px 0 rgba(0,0,0,0.2)"
+          }
+        },
+        "hover": {
+          "background": {
+            "box-shadow": "0 4px 8px 0 rgba(0,0,0,0.2)"
+          }
+        }
+      }
+    }
+  },
+  "inputWrappers": {
+    "default": {
+      "normal": {
+        "focus": {
+          "background": {
+            "box-shadow": "0 4px 8px 0 rgba(0,0,0,0.2)"
+          }
+        },
+        "hover": {
+          "background": {
+            "box-shadow": "0 4px 8px 0 rgba(0,0,0,0.2)"
+          }
+        }
+      }
+    }
+  }
+}
