@@ -37,7 +37,7 @@
         }
       ],
       "titleText": "We also do consulting...",
-      "subtitleText": "If you'd like us to build your NFT project we'd be glad to help. We've helped build some pretty big names in NFTs including [Sprite Club](https://spriteclubnft.com), [Creepz](https://creepz.co) and of course our own [MillionDollarTokenPage](https://milliondollartokenpage.com).\n\n\nWe can run your image generation, build a minting site and of course write fully customised smart contracts."
+      "subtitleText": "If you'd like us to build your NFT project we'd be glad to help. We've helped build some pretty big names in NFTs including [Sprite Club](https://spriteclubnft.com), [Creepz](https://creepz.co) and of course our own [MillionDollarTokenPage](https://milliondollartokenpage.com).\n\n\nWe can run your image generation, build a minting site and write fully customised smart contracts."
     },
     {
       "type": "footer-1",
@@ -45,12 +45,12 @@
         {
           "iconId": "ion-logo-twitter",
           "label": "Twitter",
-          "target": "https://twitter.com/everypagehq"
+          "target": "https://twitter.com/mdtp_app"
         },
         {
-          "iconId": "ion-logo-linkedin",
-          "label": "LinkedIn",
-          "target": "https://linkedin.com/company/kibalabs"
+          "iconId": "ion-logo-discord",
+          "label": "Discord",
+          "target": "https://discord.gg/bUeQjW4KSN"
         },
         {
           "iconId": "ion-logo-github",
@@ -58,8 +58,9 @@
           "target": "https://github.com/kibalabs"
         },
         {
-          "label": "Another link",
-          "target": "https://www.kibalabs.com"
+          "iconId": "ion-logo-linkedin",
+          "label": "LinkedIn",
+          "target": "https://linkedin.com/company/token-page"
         }
       ]
     }
