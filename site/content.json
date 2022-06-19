@@ -8,6 +8,12 @@
   "faviconImageUrl": "/assets/favicon.png",
   "socialCardImageUrl": "/assets/banner.png",
   "shouldHideAttribution": true,
+  "plugins": [
+    {
+      "type": "everyview-analytics",
+      "applicationId": "c4738361e6c34a6c805c9fdac352a04e"
+    }
+  ],
   "sections": [
     {
       "id": "hero",
