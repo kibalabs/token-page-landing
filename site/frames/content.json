@@ -69,6 +69,7 @@
       "type": "contact-1",
       "titleText": "Or we can reach out to you...",
       "inputButtonText": "Send",
+      "isPhoneNumberOptional": true,
       "formAction": "POST",
       "formAdditionalInputs": [],
       "formHeaders": [],

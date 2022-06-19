@@ -51,6 +51,7 @@
       "type": "calendly-booking-1",
       "titleText":"Let's BUIDL together",
       "username": "tokenpage-krishan",
+      "shouldHideEventType": true,
       "calendarId": "intro"
     },
     {
@@ -58,6 +59,7 @@
       "type": "contact-1",
       "titleText": "Or we can reach out to you...",
       "inputButtonText": "Send",
+      "isPhoneNumberOptional": true,
       "formAction": "POST",
       "formAdditionalInputs": [],
       "formHeaders": [],
@@ -92,7 +94,7 @@
         {
           "iconId": "ion-newspaper",
           "label": "Blog",
-          "target": "https://blog.milliondollartokenpage.com"
+          "target": "https://blog.tokenpage.xyz"
         }
       ]
     }
