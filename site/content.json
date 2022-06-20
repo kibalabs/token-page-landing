@@ -70,10 +70,9 @@
     {
       "id": "contact",
       "type": "calendly-booking-1",
-      "titleText": "Let's BUIDL together",
-      "username": "tokenpage-krishan",
-      "shouldHideEventType": true,
-      "calendarId": "intro"
+      "titleText":"Let's BUIDL together",
+      "username": "d/dn7-npm-xdb",
+      "calendarId": "token-page-intro"
     },
     {
       "id": "contact-1",
