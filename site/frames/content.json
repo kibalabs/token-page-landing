@@ -8,6 +8,7 @@
   "faviconImageUrl": "/assets/favicon.png",
   "socialCardImageUrl": "/assets/frames-banner.png",
   "shouldHideAttribution": true,
+  "siteHost": "www.tokenpage.xyz",
   "plugins": [
     {
       "type": "everyview-analytics",
@@ -39,6 +40,7 @@
       "logoImageUrl": "/assets/frames-logo-bordered.png"
     },
     {
+      "id": "about",
       "type": "feature-media-half-1",
       "titleText": "What does it mean for my community?",
       "leftMediaUrl": null,
