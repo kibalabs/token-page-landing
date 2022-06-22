@@ -39,38 +39,38 @@
     {
       "type": "buttons-1",
       "titleText": "We're here to help you 👷👩‍💻",
-      "bodyText": "So why us? We've built some pretty impressive things already in web3. Keep scrolling to learn more..."
+      "bodyText": "So why us? We've built some impressive things in web3..."
     },
     {
       "type": "feature-media-half-1",
-      "titleText": "Sprite Club",
+      "titleText": "Sprite Club 🍄",
       "subtitleText": "The first ever choose your own adventure NFT mint",
-      "bodyText": "We partnered with Sprite Club to ......",
-      "rightMediaUrl": "/assets/sprites.gif"
+      "bodyText": "[Sprite Club](https://spriteclubnft.com) has one of the most unique minting experiences in the NFT space. It was the first ever choose-your-own-adventure mints, where the Sprite you got was determined by your [answers to the quiz](https://spriteclubnft.com/prologue).\n\nWe joined the Sprite Club team when it was just an idea and implemented everything technical to the point where their first drop completely minting out! We built a [incredibly gas efficient custom contract](https://medium.com/@SpriteClub/sprites-minting-contract-an-erc721s-solution-7c99831a2447) and made it extendable for their future in-world experiences.",
+      "rightMediaUrl": "/assets/sprites.mp4"
     },
     {
       "type": "feature-media-half-1",
-      "titleText": "Cold Blooded Creepz",
-      "subtitleText": "Building out a whole new universe",
-      "bodyText": "",
-      "leftMediaUrl": "/assets/creepz.gif"
+      "titleText": "Cold Blooded Creepz 🦎",
+      "subtitleText": "Building out a creepy web3 universe",
+      "bodyText": "The ever-growing [Creepz](https://creepz.co) universe is one of the most engaging experiences in web3. We joined their team shortly before their genesis mint and have since implement some incredible experiences.\n\nWith Creepz we used our past experience to help scale to on and off-chain experiences which were seamless for users and the rest of the team.",
+      "leftMediaUrl": "/assets/creepz.mp4"
     },
     {
       "type": "feature-media-half-1",
-      "titleText": "Mint Calendar",
-      "subtitleText": "A web3 token-gated community",
-      "bodyText": "",
-      "rightMediaUrl": "/assets/mintcalendar.gif"
+      "titleText": "Mint Media 👨‍👨‍👧‍👧",
+      "subtitleText": "A next-generation token-gated community",
+      "bodyText": "[Mint Media](https://mintcalendar.com) is a new age community - all online and powered by NFTs. We helped the team transition from a private discord to a token-gated community with a clean contract and minting experience and elegant discord rules.\n\n",
+      "rightMediaUrl": "/assets/mintcalendar.png"
     },
     {
       "type": "buttons-1",
       "titleText": "And that's not all...",
-      "bodyText": "We've been building an arsenal of tools for ourselves and our clients. Ranging from community-boosting efforts like [Frames](https://www.tokenpage.xyz/frames) and [Gallery](https://goblintown-gallery.tokenpage.xyz) to tools like [Web3 Images](https://web3-images.kibalabs.com), [TokenHunt](https://tokenhunt.io) and [PFP Kit](https://pfpkit.xyz), we're experienced builders and we can make your products truly come to life 🦸‍♂️"
+      "bodyText": "We've been building in web3 for a while. We have our own project called [MillionDollarTokenPage](https://milliondollartokenpage.com), which shows just how creative NFT ownership can be.\n\nWe also have an arsenal of tools for ourselves and our clients. Ranging from community-boosting efforts like [Frames](https://www.tokenpage.xyz/frames) and [Gallery](https://goblintown-gallery.tokenpage.xyz) to tools like [Web3 Images](https://web3-images.kibalabs.com), [TokenHunt](https://tokenhunt.io) and [PFP Kit](https://pfpkit.xyz), we're experienced builders and we can make your products truly come to life 🦸‍♂️"
     },
     {
       "id": "contact",
       "type": "calendly-booking-1",
-      "titleText":"Let's BUIDL together",
+      "titleText": "Let's BUIDL together",
       "username": "d/dn7-npm-xdb",
       "calendarId": "token-page-intro"
     },
@@ -81,9 +81,15 @@
       "inputButtonText": "Send",
       "isPhoneNumberOptional": true,
       "formAction": "POST",
-      "formAdditionalInputs": [],
+      "formAdditionalInputs": [{
+        "name": "pipedriveApiKey",
+        "value": "31ba5a000e035d007af31ebcd940a61dda2d7a05"
+      }, {
+        "name": "pipedriveCompanyDomain",
+        "value": "tokenpage"
+      }],
       "formHeaders": [],
-      "formTarget": "<target url>"
+      "formTarget": "https://api.kiba.dev/v1/create-pipedrive-lead"
     },
     {
       "type": "footer-1",
