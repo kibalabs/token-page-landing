@@ -16,6 +16,10 @@
     "heroSectionTitle": {
       "font-size": "1.5em"
     },
+    "heroSectionSubtitle": {
+      "font-size": "1.2em",
+      "font-weight": "normal"
+    },
     "sectionSubtitle": {
       "font-size": "1.2em",
       "font-weight": "bolder"
