@@ -45,7 +45,7 @@
       "type": "feature-media-half-1",
       "titleText": "Sprite Club 🍄",
       "subtitleText": "The first ever choose your own adventure NFT mint",
-      "bodyText": "[Sprite Club](https://spriteclubnft.com) has one of the most unique minting experiences in the NFT space. It was the first ever choose-your-own-adventure mints, where the Sprite you got was determined by your [answers to the quiz](https://spriteclubnft.com/prologue).\n\nWe joined the Sprite Club team when it was just an idea and implemented everything technical to the point where their first drop completely minting out! We built a [incredibly gas efficient custom contract](https://medium.com/@SpriteClub/sprites-minting-contract-an-erc721s-solution-7c99831a2447) and made it extendable for their future in-world experiences.",
+      "bodyText": "[Sprite Club](https://spriteclubnft.com) has one of the most unique minting experiences in the NFT space. It was the first ever choose-your-own-adventure mint, where the Sprite NFT you got was determined by your [answers to the quiz](https://spriteclubnft.com/prologue).\n\nWe joined the Sprite Club team when it was just an early concept and implemented everything technical to the point where their first drop completely minted out netting over $1.5m in ETH! We built an [incredibly gas efficient custom contract](https://medium.com/@SpriteClub/sprites-minting-contract-an-erc721s-solution-7c99831a2447) and made it extendable for their future in-world experiences.",
       "rightMediaUrl": "/assets/sprites.mp4"
     },
     {
@@ -59,7 +59,7 @@
       "type": "feature-media-half-1",
       "titleText": "Mint Media 👨‍👨‍👧‍👧",
       "subtitleText": "A next-generation token-gated community",
-      "bodyText": "[Mint Media](https://mintcalendar.com) is a new age community - all online and powered by NFTs. We helped the team transition from a private discord to a token-gated community with a clean contract and minting experience and elegant discord rules.\n\n",
+      "bodyText": "[Mint Media](https://mintcalendar.com) is a new age Web3 community - all online and powered by NFTs. We helped the team transition from a private discord to a token-gated community with a clean contract and minting experience and elegant discord token-gating.\n\n",
       "rightMediaUrl": "/assets/mintmedia.mp4"
     },
     {
