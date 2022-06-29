@@ -56,5 +56,34 @@
         }
       }
     }
+  },
+  "iconButtons": {
+    "twitter": {
+      "normal": {
+        "default": {
+          "text": {
+            "color": "#1DA1F2"
+          }
+        }
+      }
+    },
+    "calendar": {
+      "normal": {
+        "default": {
+          "text": {
+            "color": "#38bac1"
+          }
+        }
+      }
+    },
+    "linkedin": {
+      "normal": {
+        "default": {
+          "text": {
+            "color": "#0077b5"
+          }
+        }
+      }
+    }
   }
 }

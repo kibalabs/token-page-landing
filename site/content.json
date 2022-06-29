@@ -92,6 +92,59 @@
       "formTarget": "https://api.kiba.dev/v1/create-pipedrive-lead"
     },
     {
+      "type": "team-boxes-1",
+      "titleText": "The team behind Token Page 🦸‍♂️🦸🏾‍♂️ ",
+      "boxVariant": "card",
+      "boxes": [
+        {
+          "name": "Arthur Fox",
+          "imageUrl": "/assets/arthur-profile.png",
+          "summaryText": "Co-Founder",
+          "bodyText": "Crypto-native! Previously in Games, VR, FinTech and startups! All-in on crypto since 2016.",
+          "iconButtons": [
+            {
+              "iconId": "ion-logo-twitter",
+              "target": "https://twitter.com/afox7847",
+              "variant": "twitter"
+            },
+            {
+              "iconId": "ion-logo-linkedin",
+              "target": "https://www.linkedin.com/in/arthur-fox",
+              "variant": "linkedin"
+            },
+            {
+              "iconId": "ion-call",
+              "target": "https://calendly.com/arthur-fox",
+              "variant": "calendar"
+            }
+          ]
+        },
+        {
+          "name": "Krishan Patel",
+          "imageUrl": "/assets/krishan-profile.png",
+          "summaryText": "Co-Founder",
+          "bodyText": "Full-Stack Engineer. Previously web2 VC-backed Co-Founder and CTO with successful exit.",
+          "iconButtons": [
+            {
+              "iconId": "ion-logo-twitter",
+              "target": "https://twitter.com/krishan711",
+              "variant": "twitter"
+            },
+            {
+              "iconId": "ion-logo-linkedin",
+              "target": "https://linkdein.com/in/krishan711",
+              "variant": "linkedin"
+            },
+            {
+              "iconId": "ion-call",
+              "target": "https://calendly.com/tokenpage-krishan/intro",
+              "variant": "calendar"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "footer-1",
       "background": {
         "imageUrl": "/assets/bg.svg"
