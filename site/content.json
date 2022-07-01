@@ -70,7 +70,7 @@
     {
       "id": "contact",
       "type": "calendly-booking-1",
-      "titleText": "Let's BUIDL together",
+      "titleText": "Let's BUIDL together 👷‍♂️",
       "username": "d/dn7-npm-xdb",
       "calendarId": "token-page-intro"
     },
@@ -93,7 +93,7 @@
     },
     {
       "type": "team-boxes-1",
-      "titleText": "The team behind Token Page 🦸‍♂️🦸🏾‍♂️ ",
+      "titleText": "Meet the founders 🦸‍♂️🦸🏾‍♂️ ",
       "boxVariant": "card",
       "boxes": [
         {

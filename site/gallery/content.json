@@ -1,0 +1,103 @@
+{
+  "name": "Token Page NFT Gallery",
+  "tagline": "Your very own community portal 🌆",
+  "description": "Let's admit it - OpenSea is a terrible place for people to discover and engage in your community. Our customized gallery will give you the hub you need to build amazing experiences with and for your community.",
+  "keywords": [],
+  "company": "Token Page",
+  "companyUrl": "https://www.tokenpage.xyz",
+  "faviconImageUrl": "/assets/favicon.png",
+  "socialCardImageUrl": "/assets/gallery-banner.png",
+  "shouldHideAttribution": true,
+  "siteHost": "www.tokenpage.xyz",
+  "plugins": [
+    {
+      "type": "everyview-analytics",
+      "applicationId": "c4738361e6c34a6c805c9fdac352a04e"
+    }
+  ],
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero-buttons-1",
+      "titleText": "Your very own community portal 🌆",
+      "subtitleText": "Let's admit it - OpenSea is a terrible place for people to discover and engage in your community. Our customized gallery will give you the hub you need to build amazing experiences with and for your community.",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "buttons": [
+        {
+          "mode": "secondary",
+          "text": "Learn more",
+          "target": "#about"
+        },
+        {
+          "mode": "primary",
+          "text": "Let's BUIDL together",
+          "target": "#contact",
+          "iconIdRight": "ion-chatbox"
+        }
+      ],
+      "logoImageUrl": "/assets/gallery-logo-bordered.png"
+    },
+    {
+      "id": "about",
+      "type": "feature-media-half-1",
+      "titleText": "What does it mean for your community?",
+      "leftMediaUrl": null,
+      "bodyText": "Our Gallery let's you own your experience with your community. There's a reason huge projects like [Azuki](https://www.azuki.com/gallery) and [Cool Cats](https://www.coolcatsnft.com/gallery) are doing this, and we get it 💭.\n\nWhen you own your experience with your community, not only does your brand value grow, but your community becomes stronger 💪.\n\nWith our galleries you can add customized features that suit your community specifically, like adding lore around your creations, allowing your members to customise them and so much more!",
+      "rightMediaUrl": "/assets/gallery-mdtp.png"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "How does it work?",
+      "bodyText": "Our Gallery starts off basic; it's simply a place for you to show off your best work - your NFTs.\n\nOn top of this, you can layer on richer and more engaging experiences. Meme-submission contests with voting, renaming and adding lore to characters, follow-trains, let your imagination run wild ⚡⚡️",
+      "leftMediaUrl": "/assets/gallery-sprites.png"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "Example use case: Branding 👹",
+      "rightMediaUrl": "/assets/gallery-goblintown.mp4",
+      "bodyText": "For the [GoblinTown Gallery](https://goblintown-gallery.tokenpage.xyz) we built a fully brand-customized gallery. Every interaction feels like your are experiencing it as the founders intended 🚀."
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "Example use case: Check airdrop claim status 🍄",
+      "leftMediaUrl": "/assets/gallery-sprites.mp4",
+      "bodyText": "For the [Sprite Club Gallery](https://goblintown-gallery.tokenpage.xyz) we went a step further and built out a feature to show off which sprites have or have not claimed a certain airdrop.\n\nInstead of having to build an entire new app for this, the experience is native to the community hub 🙌."
+    },
+    {
+      "id": "contact",
+      "type": "calendly-booking-1",
+      "titleText": "Let's BUIDL together 👷‍♂️",
+      "bodyText": "We're ready to build galleries for all ethereum NFT projects. Get in touch and let's get started - we can have yours up in a matter of days.",
+      "username": "d/dn7-npm-xdb",
+      "calendarId": "token-page-intro"
+    },
+    {
+      "id": "contact-1",
+      "type": "contact-1",
+      "titleText": "Or we can reach out to you...",
+      "inputButtonText": "Send",
+      "isPhoneNumberOptional": true,
+      "formAction": "POST",
+      "formAdditionalInputs": [
+        {
+          "name": "pipedriveApiKey",
+          "value": "31ba5a000e035d007af31ebcd940a61dda2d7a05"
+        },
+        {
+          "name": "pipedriveCompanyDomain",
+          "value": "tokenpage"
+        }
+      ],
+      "formHeaders": [],
+      "formTarget": "https://api.kiba.dev/v1/create-pipedrive-lead"
+    },
+    {
+      "type": "footer-1",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      }
+    }
+  ]
+}
