@@ -19,7 +19,7 @@
     {
       "id": "hero",
       "type": "hero-buttons-1",
-      "titleText": "Represent your community in style 🖼",
+      "titleText": "Have your DAO members repping in style 🖼",
       "subtitleText": "Frames are the perfect way for DAO members, alpha-group members, and NFT communities to show their allegiance to the cause. Instead of launching your own PFP collection, simply design a frame that all your members can use on top of their existing PFPs.\n\nWe can get yours set up as quickly as a day!",
       "background": {
         "imageUrl": "/assets/bg.svg"
@@ -45,25 +45,13 @@
       "titleText": "What does it mean for your community?",
       "leftMediaUrl": null,
       "bodyText": "Frames give your community a vital super power - your members can proudly identify themselves with your community in online discussions. We all know what it feels like to see lots of members of a PFP project in a certain Discord or on your Twitter timeline.\n\nFrames give your community the ability to share this same sense of belongingness whereever they are. Plus, they'll be spreading the word about your community at the same time 🙌.",
-      "rightMediaUrl": "/assets/frames.mp4"
+      "rightMediaUrl": "/assets/frames.gif"
     },
     {
       "type": "feature-media-half-1",
       "titleText": "How does it work?",
       "bodyText": "We've developed a new standard on top of ERC721 that let's us attach a custom frame design onto your existing tokens metadata. \n\nThen, your members just go to a tool like [PFP Kit](https://pfpkit.xyz) and can easily access their brand new frame. Check out how fast and easy it is for them in this gif 💪\n\nYou can [set this up yourself](https://pfpkit.xyz/frames) or [we'd absolutely love to help](#contact).",
       "leftMediaUrl": "/assets/frames-flow.gif"
-    },
-    {
-      "type": "feature-media-half-1",
-      "titleText": "Example use case: Token-Gated Communities",
-      "rightMediaUrl": "/assets/frames-mintcalendar.png",
-      "bodyText": "[Mint Calendar](https://mintcalendar.com) is an awesome token-gated community that we've had the pleasure of working on some tools with. When they heard about frames they LOVED the idea and we're super excited to have them as a launch partner.\n\nHere's what their frames look like in action 👊\n\nGo check out [their discord](https://discord.gg/mintcalendar) and see the magic for yourself"
-    },
-    {
-      "type": "feature-media-half-1",
-      "titleText": "Example use case: Virtual Worlds",
-      "leftMediaUrl": "/assets/frames-mdtp.png",
-      "bodyText": "[MillionDollarTokenPage](https://milliondollartokenpage.com) is a product we built as an homage to [The Million Dollar Home Page](https://milliondollarhomepage.com).\n\nIn our world, each little square is an NFT. Our owners wanted to show-off their land-ownership anywhere their profile appears. We built Frames as a response to this.\n\nIn this case each ERC-721 has its own **unique** frame. This means each one has its own traits, and its own unique character. You can [browse the generated frame artwork here](https://mdtp-gallery.tokenpage.xyz)."
     },
     {
       "id": "contact",
