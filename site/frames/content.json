@@ -55,13 +55,15 @@
     },
     {
       "type": "feature-media-half-1",
-      "titleText": "Example use case: Token-Gated Communities",
+      "highlightText": "USE CASE",
+      "titleText": "Token-Gated Communities 🎟",
       "rightMediaUrl": "/assets/frames-mintcalendar.png",
       "bodyText": "[Mint Calendar](https://mintcalendar.com) is an awesome token-gated community that we've had the pleasure of working on some tools with. When they heard about frames they LOVED the idea and we're super excited to have them as a launch partner.\n\nHere's what their frames look like in action 👊\n\nGo check out [their discord](https://discord.gg/mintcalendar) and see the magic for yourself"
     },
     {
       "type": "feature-media-half-1",
-      "titleText": "Example use case: Virtual Worlds",
+      "highlightText": "USE CASE",
+      "titleText": "Virtual Worlds 🌎",
       "leftMediaUrl": "/assets/frames-mdtp.png",
       "bodyText": "[MillionDollarTokenPage](https://milliondollartokenpage.com) is a product we built as an homage to [The Million Dollar Home Page](https://milliondollarhomepage.com).\n\nIn our world, each little square is an NFT. Our owners wanted to show-off their land-ownership anywhere their profile appears. We built Frames as a response to this.\n\nIn this case each ERC-721 has its own **unique** frame. This means each one has its own traits, and its own unique character. You can [browse the generated frame artwork here](https://mdtp-gallery.tokenpage.xyz)."
     },
