@@ -45,13 +45,13 @@
       "titleText": "What does it mean for your community?",
       "leftMediaUrl": null,
       "bodyText": "Frames give your community a vital super power - your members can proudly identify themselves with your community in online discussions. We all know what it feels like to see lots of members of a PFP project in a certain Discord or on your Twitter timeline.\n\nFrames give your community the ability to share this same sense of belongingness whereever they are. Plus, they'll be spreading the word about your community at the same time 🙌.",
-      "rightMediaUrl": "/assets/frames.gif"
+      "rightMediaUrl": "/assets/frames.mp4"
     },
     {
       "type": "feature-media-half-1",
       "titleText": "How does it work?",
       "bodyText": "We've developed a new standard on top of ERC721 that let's us attach a custom frame design onto your existing tokens metadata. \n\nThen, your members just go to a tool like [PFP Kit](https://pfpkit.xyz) and can easily access their brand new frame. Check out how fast and easy it is for them in this gif 💪\n\nYou can [set this up yourself](https://pfpkit.xyz/frames) or [we'd absolutely love to help](#contact).",
-      "leftMediaUrl": "/assets/frames-flow.gif"
+      "leftMediaUrl": "/assets/frames-flow.mp4"
     },
     {
       "id": "contact",

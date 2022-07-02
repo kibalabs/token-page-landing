@@ -51,7 +51,7 @@
       "type": "feature-media-half-1",
       "titleText": "How does it work?",
       "bodyText": "We've developed a new standard on top of ERC721 that let's us attach a custom frame design onto your existing tokens metadata. \n\nThen, your members just go to a tool like [PFP Kit](https://pfpkit.xyz) and can easily access their brand new frame. Check out how fast and easy it is for them in this gif 💪\n\nYou can [set this up yourself](https://pfpkit.xyz/frames) or [we'd absolutely love to help](#contact).",
-      "leftMediaUrl": "/assets/frames-flow.gif"
+      "leftMediaUrl": "/assets/frames-flow.mp4"
     },
     {
       "type": "feature-media-half-1",
