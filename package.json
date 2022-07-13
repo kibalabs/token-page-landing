@@ -7,6 +7,6 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@kibalabs/everypage-cli": "0.9.8-next.4"
+    "@kibalabs/everypage-cli": "0.9.8-next.5"
   }
 }
