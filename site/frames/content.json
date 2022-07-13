@@ -72,7 +72,11 @@
       "type": "calendly-booking-1",
       "titleText": "Let's BUIDL together",
       "username": "d/dtz-vnn-9rk",
-      "calendarId": "nft-frames-intro"
+      "calendarId": "nft-frames-intro",
+      "shouldHideEventType": false,
+      "shouldHideCookieBanner": true,
+      "embedHeight": "1000px",
+      "embedHeightMobile": "900px"
     },
     {
       "id": "contact-1",

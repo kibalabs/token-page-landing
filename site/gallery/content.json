@@ -108,7 +108,11 @@
       "titleText": "Let's BUIDL together 👷‍♂️",
       "bodyText": "We're ready to build galleries for all ethereum NFT projects. Get in touch and let's get started - we can have yours up in a matter of days.",
       "username": "d/dn7-npm-xdb",
-      "calendarId": "token-page-intro"
+      "calendarId": "token-page-intro",
+      "shouldHideEventType": false,
+      "shouldHideCookieBanner": true,
+      "embedHeight": "1000px",
+      "embedHeightMobile": "900px"
     },
     {
       "id": "contact-1",
