@@ -1,7 +1,7 @@
 {
   "name": "Token Page NFT Gallery",
-  "tagline": "Your very own community portal 🌆",
-  "description": "Let's admit it - OpenSea is a terrible place for people to discover and engage in your community. Our customized gallery will give you the hub you need to build amazing experiences with and for your community.",
+  "tagline": "Customisable & Branded Gallery for your NFTs🌆",
+  "description": "Web3 is broken. Opensea owns the relationship with your community. We're here to change that! Our customized gallery gives you the hub you need to build amazing experiences with & for your community.",
   "keywords": [],
   "company": "Token Page",
   "companyUrl": "https://www.tokenpage.xyz",
@@ -19,8 +19,8 @@
     {
       "id": "hero",
       "type": "hero-buttons-1",
-      "titleText": "Your very own community portal 🌆",
-      "subtitleText": "Let's admit it - OpenSea is a terrible place for people to discover and engage in your community. Our customized gallery will give you the hub you need to build amazing experiences with and for your community.",
+      "titleText": "Customisable & Branded Gallery for your NFTs 🌆",
+      "subtitleText": "Web3 is broken. Opensea owns the relationship with your community. We're here to change that! \n Our customized gallery gives you the hub you need to build amazing experiences with & for your community.",
       "background": {
         "imageUrl": "/assets/bg.svg"
       },
@@ -32,7 +32,7 @@
         },
         {
           "mode": "primary",
-          "text": "Let's BUIDL together",
+          "text": "Get your Gallery now!",
           "target": "#contact",
           "iconIdRight": "ion-chatbox"
         }
