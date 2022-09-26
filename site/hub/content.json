@@ -1,0 +1,224 @@
+{
+  "name": "Token Page NFT Hub",
+  "tagline": "Customisable & Branded Hub for your NFTs🌆",
+  "description": "Web3 is broken. Opensea owns the relationship with your community. We're here to change that! Our customized hub gives what you you need to build amazing experiences with & for your community.",
+  "keywords": [],
+  "company": "Token Page",
+  "companyUrl": "https://www.tokenpage.xyz",
+  "faviconImageUrl": "/assets/favicon.png",
+  "socialCardImageUrl": "/assets/gallery-banner.png",
+  "shouldHideAttribution": true,
+  "siteHost": "www.tokenpage.xyz",
+  "plugins": [
+    {
+      "type": "everyview-analytics",
+      "applicationId": "c4738361e6c34a6c805c9fdac352a04e"
+    }
+  ],
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero-buttons-1",
+      "titleText": "Customisable & Branded Hub for your NFTs 🌆",
+      "subtitleText": "Web3 is broken. Opensea owns the relationship with your community. We're here to change that! \n Our customized Hub gives you what you need to build amazing experiences with & for your community.",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "buttons": [
+        {
+          "mode": "secondary",
+          "text": "Learn more",
+          "target": "#about"
+        },
+        {
+          "mode": "primary",
+          "text": "Get your Hub now!",
+          "target": "#contact",
+          "iconIdRight": "ion-chatbox"
+        }
+      ],
+      "logoImageUrl": "/assets/gallery-logo-bordered.png"
+    },
+    {
+      "id": "about",
+      "type": "feature-media-half-1",
+      "titleText": "What does it mean for your community?",
+      "leftMediaUrl": null,
+      "bodyText": "Our Hub let's you own your experience with your community. There's a reason huge projects like [Azuki](https://www.azuki.com/gallery) and [Cool Cats](https://www.coolcatsnft.com/gallery) are doing this, and we get it 💭.\n\nWhen you own your experience with your community, not only does your brand value grow, but your community becomes stronger 💪.\n\nWith our hub you can add customized features that suit your community specifically, like adding lore around your creations, allowing your members to customise them and so much more!",
+      "rightMediaUrl": "/assets/gallery-mdtp.png"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "How does it work?",
+      "bodyText": "Our Hub starts off basic; it's simply a place for you to show off your best work - your NFTs.\n\nOn top of this, you can layer on richer and more engaging experiences. Meme-submission contests with voting, renaming and adding lore to characters, follow-trains, let your imagination run wild ⚡⚡️",
+      "leftMediaUrl": "/assets/gallery-sprites.png"
+    },
+    {
+      "type": "feature-media-half-1",
+      "highlightText": "USE CASE",
+      "titleText": "Fully Custom Branding 👹",
+      "rightMediaUrl": "/assets/gallery-goblintown.mp4",
+      "bodyText": "For the [GoblinTown Gallery](https://goblintown.tokenpage.xyz) we built a fully brand-customized hub. Every interaction feels like your are experiencing it as the founders intended 🚀."
+    },
+    {
+      "type": "feature-media-half-1",
+      "highlightText": "USE CASE",
+      "titleText": "Check airdrop claim status 🍄",
+      "leftMediaUrl": "/assets/gallery-sprites.mp4",
+      "bodyText": "For the [Sprite Club Gallery](https://goblintown.tokenpage.xyz) we went a step further and built out a feature to show off which sprites have or have not claimed a certain airdrop.\n\nInstead of having to build an entire new app for this, the experience is native to the community hub 🙌."
+    },
+    {
+      "type": "feature-media-half-1",
+      "highlightText": "COMING SOON",
+      "titleText": "Member creatives 🎨",
+      "rightMediaUrl": "/assets/gallery-member-creatives.png",
+      "bodyText": "Your communities are incredibly creative. Let's put that creativity to good use and allow them to change the name of their NFT, add lore to it, show off their favourite meme and more!"
+    },
+    {
+      "type": "feature-media-half-1",
+      "highlightText": "COMING SOON",
+      "titleText": "Twitter rankings 📈",
+      "leftMediaUrl": "/assets/gallery-twitter-rankings.png",
+      "bodyText": "Allow your members to verify their twitter and we can tell you which of them talk about your project the most and even which have the most influence!"
+    },
+    {
+      "type": "feature-media-half-1",
+      "highlightText": "COMING SOON",
+      "titleText": "Member voting 🗳",
+      "rightMediaUrl": "/assets/gallery-member-voting.png",
+      "bodyText": "Your communities are incredibly creative. Let's put that creativity to good use and allow them to change the name of their NFT, add lore to it, show off their favourite meme and more!"
+    },
+    {
+      "type": "feature-media-half-1",
+      "highlightText": "COMING SOON",
+      "titleText": "Member overlaps 🫶",
+      "leftMediaUrl": "/assets/gallery-member-overlaps.png",
+      "bodyText": "Your communities have a presence in many other communities. We can show you where the biggest overlaps are so you know where to work on collaborations, giveaways and more!"
+    },
+    {
+      "type": "feature-media-half-1",
+      "highlightText": "COMING SOON",
+      "titleText": "Staking controls 🧮",
+      "rightMediaUrl": "/assets/gallery-staking-controls.png",
+      "bodyText": "If you're project has staking or other features based on things like time held, we can show your members their status and even incorporate the staking controls into you Hub."
+    },
+    {
+      "id": "contact",
+      "type": "calendly-booking-1",
+      "titleText": "Let's BUIDL together 👷‍♂️",
+      "bodyText": "We're ready to build hubs for all ethereum NFT projects. Get in touch and let's get started - we can have yours up in a matter of days.",
+      "username": "d/dn7-npm-xdb",
+      "calendarId": "token-page-intro",
+      "shouldHideEventType": false,
+      "shouldHideCookieBanner": true,
+      "embedHeight": "1000px",
+      "embedHeightMobile": "900px"
+    },
+    {
+      "id": "contact-1",
+      "type": "contact-1",
+      "titleText": "Or we can reach out to you...",
+      "inputButtonText": "Send",
+      "isPhoneNumberOptional": true,
+      "formAction": "POST",
+      "formAdditionalInputs": [
+        {
+          "name": "pipedriveApiKey",
+          "value": "31ba5a000e035d007af31ebcd940a61dda2d7a05"
+        },
+        {
+          "name": "pipedriveCompanyDomain",
+          "value": "tokenpage"
+        }
+      ],
+      "formHeaders": [],
+      "formTarget": "https://api.kiba.dev/v1/create-pipedrive-lead"
+    },
+    {
+      "type": "team-boxes-1",
+      "titleText": "Meet the founders 🦸‍♂️🦸🏾‍♂️ ",
+      "boxVariant": "card",
+      "boxes": [
+        {
+          "name": "Arthur Fox",
+          "imageUrl": "/assets/arthur-profile.png",
+          "summaryText": "Co-Founder",
+          "bodyText": "Crypto-native! Previously in Games, VR, FinTech and startups! All-in on crypto since 2016.",
+          "iconButtons": [
+            {
+              "iconId": "ion-logo-twitter",
+              "target": "https://twitter.com/afox7847",
+              "variant": "twitter"
+            },
+            {
+              "iconId": "ion-logo-linkedin",
+              "target": "https://www.linkedin.com/in/arthur-fox",
+              "variant": "linkedin"
+            },
+            {
+              "iconId": "ion-call",
+              "target": "https://calendly.com/arthur-fox",
+              "variant": "calendar"
+            }
+          ]
+        },
+        {
+          "name": "Krishan Patel",
+          "imageUrl": "/assets/krishan-profile.png",
+          "summaryText": "Co-Founder",
+          "bodyText": "Full-Stack Engineer. Previously web2 VC-backed Co-Founder and CTO with successful exit.",
+          "iconButtons": [
+            {
+              "iconId": "ion-logo-twitter",
+              "target": "https://twitter.com/krishan711",
+              "variant": "twitter"
+            },
+            {
+              "iconId": "ion-logo-linkedin",
+              "target": "https://linkedin.com/in/krishan711",
+              "variant": "linkedin"
+            },
+            {
+              "iconId": "ion-call",
+              "target": "https://calendly.com/tokenpage-krishan/intro",
+              "variant": "calendar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "footer-1",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "iconLinks": [
+        {
+          "iconId": "ion-logo-twitter",
+          "label": "Twitter",
+          "target": "https://twitter.com/tokenpagexyz"
+        },
+        {
+          "iconId": "ion-logo-discord",
+          "label": "Discord",
+          "target": "https://discord.gg/bUeQjW4KSN"
+        },
+        {
+          "iconId": "ion-logo-github",
+          "label": "GitHub",
+          "target": "https://github.com/kibalabs"
+        },
+        {
+          "iconId": "ion-logo-linkedin",
+          "label": "LinkedIn",
+          "target": "https://linkedin.com/company/token-page"
+        },
+        {
+          "iconId": "ion-newspaper",
+          "label": "Blog",
+          "target": "https://blog.tokenpage.xyz"
+        }
+      ]
+    }
+  ]
+}
