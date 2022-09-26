@@ -37,7 +37,7 @@
           "iconIdRight": "ion-chatbox"
         }
       ],
-      "logoImageUrl": "/assets/gallery-logo-bordered.png"
+      "logoImageUrl": "/assets/hub-logo-bordered.png"
     },
     {
       "id": "about",
@@ -58,14 +58,14 @@
       "highlightText": "USE CASE",
       "titleText": "Fully Custom Branding 👹",
       "rightMediaUrl": "/assets/gallery-goblintown.mp4",
-      "bodyText": "For the [GoblinTown Gallery](https://goblintown.tokenpage.xyz) we built a fully brand-customized hub. Every interaction feels like your are experiencing it as the founders intended 🚀."
+      "bodyText": "For the [GoblinTown Hub](https://goblintown.tokenpage.xyz) we built a fully brand-customized hub. Every interaction feels like your are experiencing it as the founders intended 🚀."
     },
     {
       "type": "feature-media-half-1",
       "highlightText": "USE CASE",
       "titleText": "Check airdrop claim status 🍄",
       "leftMediaUrl": "/assets/gallery-sprites.mp4",
-      "bodyText": "For the [Sprite Club Gallery](https://goblintown.tokenpage.xyz) we went a step further and built out a feature to show off which sprites have or have not claimed a certain airdrop.\n\nInstead of having to build an entire new app for this, the experience is native to the community hub 🙌."
+      "bodyText": "For the [Sprite Club Hub](https://gallery.spriteclubnft.com) we went a step further and built out a feature to show off which sprites have or have not claimed a certain airdrop.\n\nInstead of having to build an entire new app for this, the experience is native to the community hub 🙌."
     },
     {
       "type": "feature-media-half-1",
