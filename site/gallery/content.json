@@ -19,8 +19,8 @@
     {
       "id": "hero",
       "type": "hero-buttons-1",
-      "titleText": "Customisable & Branded Gallery for your NFTs 🌆",
-      "subtitleText": "Web3 is broken. Opensea owns the relationship with your community. We're here to change that! \n Our customized gallery gives you the hub you need to build amazing experiences with & for your community.",
+      "titleText": "A branded, customizable, **ENGAGEMENT HUB** for your Community 🌆",
+      "subtitleText": "Web3 communities are broken. Marketplaces (ahem, Opensea) defines the relationship you have with your community. We're here to change that! \n\n Our customized hub gives you the tools you need to build amazing experiences for & with your community.",
       "background": {
         "imageUrl": "/assets/bg.svg"
       },
@@ -85,14 +85,14 @@
       "type": "feature-media-half-1",
       "highlightText": "ANALYTICS",
       "titleText": "Member overlaps 🫶",
-      "leftMediaUrl": "/assets/gallery-member-overlaps.png",
+      "rightMediaUrl": "/assets/gallery-member-overlaps.png",
       "bodyText": "Your communities have a presence in many other communities. We can show you where the biggest overlaps are so you know where to work on collaborations, giveaways and more!"
     },
     {
       "type": "feature-media-half-1",
       "highlightText": "COMING SOON",
       "titleText": "Member voting 🗳",
-      "rightMediaUrl": "/assets/gallery-member-voting.png",
+      "leftMediaUrl": "/assets/gallery-member-voting.png",
       "bodyText": "Your communities are incredibly creative. Let's put that creativity to good use and allow them to change the name of their NFT, add lore to it, show off their favourite meme and more!"
     },
     {
