@@ -1,7 +1,7 @@
 {
   "name": "Token Page NFT Hub",
-  "tagline": "Customisable & Branded Hub for your NFTs🌆",
-  "description": "Web3 is broken. Opensea owns the relationship with your community. We're here to change that! Our customized hub gives what you you need to build amazing experiences with & for your community.",
+  "tagline": "**ENGAGEMENT HUB** branded & customised for your Community 🌆",
+  "description": "Web3 communities are broken. Marketplaces (ahem, Opensea) defines the relationship you have with your community. We're here to change that! \n\n Our customized hub gives you the tools you need to build amazing experiences for & with your community.",
   "keywords": [],
   "company": "Token Page",
   "companyUrl": "https://www.tokenpage.xyz",
@@ -19,8 +19,8 @@
     {
       "id": "hero",
       "type": "hero-buttons-1",
-      "titleText": "Customisable & Branded Hub for your NFTs 🌆",
-      "subtitleText": "Web3 is broken. Opensea owns the relationship with your community. We're here to change that! \n Our customized Hub gives you what you need to build amazing experiences with & for your community.",
+      "titleText": "**ENGAGEMENT HUB** branded & customised for your Community 🌆",
+      "subtitleText": "Web3 communities are broken. Marketplaces (ahem, Opensea) defines the relationship you have with your community. We're here to change that! \n\n Our customized hub gives you the tools you need to build amazing experiences for & with your community.",
       "background": {
         "imageUrl": "/assets/bg.svg"
       },
@@ -69,31 +69,31 @@
     },
     {
       "type": "feature-media-half-1",
-      "highlightText": "COMING SOON",
+      "highlightText": "ENGAGE MEMBERS",
       "titleText": "Member creatives 🎨",
       "rightMediaUrl": "/assets/gallery-member-creatives.png",
       "bodyText": "Your communities are incredibly creative. Let's put that creativity to good use and allow them to change the name of their NFT, add lore to it, show off their favourite meme and more!"
     },
     {
       "type": "feature-media-half-1",
-      "highlightText": "COMING SOON",
+      "highlightText": "ENGAGE MEMBERS",
       "titleText": "Twitter rankings 📈",
       "leftMediaUrl": "/assets/gallery-twitter-rankings.png",
       "bodyText": "Allow your members to verify their twitter and we can tell you which of them talk about your project the most and even which have the most influence!"
     },
     {
       "type": "feature-media-half-1",
-      "highlightText": "COMING SOON",
-      "titleText": "Member voting 🗳",
-      "rightMediaUrl": "/assets/gallery-member-voting.png",
-      "bodyText": "Your communities are incredibly creative. Let's put that creativity to good use and allow them to change the name of their NFT, add lore to it, show off their favourite meme and more!"
+      "highlightText": "ANALYTICS",
+      "titleText": "Member overlaps 👥",
+      "rightMediaUrl": "/assets/gallery-member-overlaps.png",
+      "bodyText": "Your communities have a presence in many other communities. We can show you where the biggest overlaps are so you know where to work on collaborations, giveaways and more!"
     },
     {
       "type": "feature-media-half-1",
       "highlightText": "COMING SOON",
-      "titleText": "Member overlaps 🫶",
-      "leftMediaUrl": "/assets/gallery-member-overlaps.png",
-      "bodyText": "Your communities have a presence in many other communities. We can show you where the biggest overlaps are so you know where to work on collaborations, giveaways and more!"
+      "titleText": "Member voting 🗳",
+      "leftMediaUrl": "/assets/gallery-member-voting.png",
+      "bodyText": "Your communities are incredibly creative. Let's put that creativity to good use and allow them to change the name of their NFT, add lore to it, show off their favourite meme and more!"
     },
     {
       "type": "feature-media-half-1",
@@ -105,7 +105,7 @@
     {
       "id": "contact",
       "type": "calendly-booking-1",
-      "titleText": "Let's BUIDL together 👷‍♂️",
+      "titleText": "Get your HUB now! 👷‍♂️",
       "bodyText": "We're ready to build hubs for all ethereum NFT projects. Get in touch and let's get started - we can have yours up in a matter of days.",
       "username": "d/dn7-npm-xdb",
       "calendarId": "token-page-intro",
