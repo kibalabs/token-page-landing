@@ -1,7 +1,7 @@
 {
-  "name": "Token Page Engagement Hub",
+  "name": "Engagement Hub by Token Page",
   "tagline": "Branded & Customised for your Community 🌆",
-  "description": "Web3 communities are broken. Marketplaces (ahem, Opensea) defines the relationship you have with your community. We're here to change that! \n\n Our customized hub gives you the tools you need to build amazing experiences for & with your community.",
+  "description": "Web3 communities are broken. Marketplaces (ahem, Opensea) define the relationship you have with your community. We're here to change that! \n\n Our customized hub gives you the tools you need to build amazing experiences for & with your community.",
   "keywords": [],
   "company": "Token Page",
   "companyUrl": "https://www.tokenpage.xyz",
@@ -20,7 +20,7 @@
       "id": "hero",
       "type": "hero-buttons-1",
       "titleText": "**ENGAGEMENT HUB** branded & customised for your Community 🌆",
-      "subtitleText": "Web3 communities are broken. Marketplaces (ahem, Opensea) defines the relationship you have with your community. We're here to change that! \n\n Our customized hub gives you the tools you need to build amazing experiences for & with your community.",
+      "subtitleText": "Web3 communities are broken. Marketplaces (ahem, Opensea) define the relationship you have with your community. We're here to change that! \n\n Our customized hub gives you the tools you need to build amazing experiences for & with your community.",
       "background": {
         "imageUrl": "/assets/bg.svg"
       },
