@@ -71,6 +71,10 @@
     },
     {
       "type": "buttons-1",
+      "titleText": "Heard enough?",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
       "buttons": [
         {
           "mode": "primary",
@@ -81,9 +85,65 @@
       ]
     },
     {
-      "type": "buttons-1",
-      "titleText": "And that's not all...",
-      "bodyText": "We've been building in web3 for a while. We have our own project called [MillionDollarTokenPage](https://milliondollartokenpage.com), which shows just how creative NFT ownership can be.\n\nWe also have an arsenal of tools for ourselves and our clients. Ranging from community-boosting efforts like [Hub](https://www.tokenpage.xyz/hub) and [Frames](https://www.tokenpage.xyz/frames) to tools like [Web3 Images](https://web3-images.kibalabs.com), [TokenHunt](https://tokenhunt.io) and [PFP Kit](https://pfpkit.xyz), we're experienced builders and we can make your products truly come to life 🦸‍♂️"
+      "type": "feature-boxes-1",
+      "titleText": "Here's what we've built for ourselves...",
+      "bodyText": "We've been building in web3 for a while. We like to put our money where our mouth is an build products for ourselves too. For example, we built [MillionDollarTokenPage](https://milliondollartokenpage.com) to show just how creative NFT ownership can be.\n\nHere are some of the other things we've built:",
+      "features": [
+        {
+          "buttonTarget": "https://milliondollartokenpage.com",
+          "buttonText": "Open app",
+          "description": "**MillionDollarTokenPage** - we built the web3 version of [the original](https://milliondollarhomepage.com) to show just how far the internet has come. It's a great use case for showign the power of NFTs 🚀",
+          "mediaUrl": "/assets/app-mdtp.png"
+        },
+        {
+          "buttonTarget": "https://tokenhunt.io/collections/0x8e720F90014fA4De02627f4A4e217B7e3942d5e8",
+          "buttonText": "Open app",
+          "description": "**Token Hunt** - behind most of the products we build is our mega database of all NFT data on mainnet. TokenHunt is our visualiser for all this data 🎨",
+          "mediaUrl": "/assets/app-notd.png"
+        },
+        {
+          "buttonTarget": "https://gm.tokenpage.xyz",
+          "buttonText": "Open app",
+          "description": "**GM** - We're all part of communities, but how many of us are actually showing up everyday? GM is the easiest way for communities to show off their energy 🔥",
+          "mediaUrl": "/assets/app-gm.png"
+        },
+        {
+          "buttonTarget": "https://web3-images.kibalabs.com",
+          "buttonText": "Visit site",
+          "description": "**Web3Images** - having built many dapps, we know getting ENS profile images showing was still surprinsgly painful. We built this dev tool to make it trivial 🖼",
+          "mediaUrl": "/assets/app-w3i.png"
+        },
+        {
+          "buttonTarget": "https://pfpkit.xyz",
+          "buttonText": "Open app",
+          "description": "**PFP Kit** - when we built frames we realised they would be impossible to use without a nice UI for people to easily manage their PFPs, so we built it for everyone 🎭 ",
+          "mediaUrl": "/assets/app-pfp.png"
+        },
+        {
+          "buttonTarget": "https://wtchs.tokenpage.xyz",
+          "buttonText": "Open app",
+          "description": "**Wtchs translator** - the wtchs project was a fun experiment that tweeted out little puzzles in a made up language. We noticed a pattern, solved it and made it free for everyone else to solve too 🤙",
+          "mediaUrl": "/assets/app-wtchs.png"
+        },
+        {
+          "buttonTarget": "https://onchain-monsters.tokenpage.xyz",
+          "buttonText": "Open app",
+          "description": "**Onchain Monsters staking interface** - we bought a few of these NFTs back in the day and realised there is no easy way to stake and claim \"Dough\", so we built it ourselves 👹",
+          "mediaUrl": "/assets/app-ocm.png"
+        },
+        {
+          "buttonTarget": "https://www.tokenpage.xyz/frames",
+          "buttonText": "Learn more",
+          "description": "**Frames Standard** - We created a brand new standard giving DAO members, alpha-group members, and NFT communities to show their allegiance to the cause without replacing their whole PFP 🖼",
+          "mediaUrl": "/assets/frames-banner.png"
+        },
+        {
+          "buttonTarget": "https://www.tokenpage.xyz/hub",
+          "buttonText": "Learn more",
+          "description": "**Community Hub** - Most NFT projects have marketplaces as their main interaction point. We created branded & customisable hubs for communities to change that 🌆",
+          "mediaUrl": "/assets/gallery-banner.png"
+        }
+      ]
     },
     {
       "id": "contact",
@@ -103,13 +163,16 @@
       "inputButtonText": "Send",
       "isPhoneNumberOptional": true,
       "formAction": "POST",
-      "formAdditionalInputs": [{
-        "name": "pipedriveApiKey",
-        "value": "31ba5a000e035d007af31ebcd940a61dda2d7a05"
-      }, {
-        "name": "pipedriveCompanyDomain",
-        "value": "tokenpage"
-      }],
+      "formAdditionalInputs": [
+        {
+          "name": "pipedriveApiKey",
+          "value": "31ba5a000e035d007af31ebcd940a61dda2d7a05"
+        },
+        {
+          "name": "pipedriveCompanyDomain",
+          "value": "tokenpage"
+        }
+      ],
       "formHeaders": [],
       "formTarget": "https://api.kiba.dev/v1/create-pipedrive-lead"
     },
