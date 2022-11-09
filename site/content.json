@@ -92,13 +92,13 @@
         {
           "buttonTarget": "https://milliondollartokenpage.com",
           "buttonText": "Open app",
-          "description": "**MillionDollarTokenPage** - we built the web3 version of [the original](https://milliondollarhomepage.com) to show just how far the internet has come. It's a great use case for showign the power of NFTs 🚀",
+          "description": "**MillionDollarTokenPage** - we built the web3 version of [the original](https://milliondollarhomepage.com) to show just how far the internet has come. It's a great use case for showing the power of NFTs 🚀",
           "mediaUrl": "/assets/app-mdtp.png"
         },
         {
           "buttonTarget": "https://tokenhunt.io/collections/0x8e720F90014fA4De02627f4A4e217B7e3942d5e8",
           "buttonText": "Open app",
-          "description": "**Token Hunt** - behind most of the products we build is our mega database of all NFT data on mainnet. TokenHunt is our visualiser for all this data 🎨",
+          "description": "**Token Hunt** - behind most of the products we build is our mega database of all NFT data on mainnet. TokenHunt is our visualizer for all this data 🎨",
           "mediaUrl": "/assets/app-notd.png"
         },
         {
@@ -110,25 +110,25 @@
         {
           "buttonTarget": "https://web3-images.kibalabs.com",
           "buttonText": "Visit site",
-          "description": "**Web3Images** - having built many dapps, we know getting ENS profile images showing was still surprinsgly painful. We built this dev tool to make it trivial 🖼",
+          "description": "**Web3Images** - having built many dapps, we know getting ENS profile images showing was still surprisingly painful. We built this dev tool to make it trivial 🖼",
           "mediaUrl": "/assets/app-w3i.png"
         },
         {
           "buttonTarget": "https://pfpkit.xyz",
           "buttonText": "Open app",
-          "description": "**PFP Kit** - when we built frames we realised they would be impossible to use without a nice UI for people to easily manage their PFPs, so we built it for everyone 🎭 ",
+          "description": "**PFP Kit** - when we built frames we realized they would be impossible to use without a nice UI for people to easily manage their PFPs, so we built it for everyone 🎭 ",
           "mediaUrl": "/assets/app-pfp.png"
         },
         {
           "buttonTarget": "https://wtchs.tokenpage.xyz",
           "buttonText": "Open app",
-          "description": "**Wtchs translator** - the wtchs project was a fun experiment that tweeted out little puzzles in a made up language. We noticed a pattern, solved it and made it free for everyone else to solve too 🤙",
+          "description": "**Wtchs translator** - the wtchs NFT project constantly tweeted out puzzles in a made up language. We found a pattern, solved it and made a tool for everyone 🤙",
           "mediaUrl": "/assets/app-wtchs.png"
         },
         {
           "buttonTarget": "https://onchain-monsters.tokenpage.xyz",
           "buttonText": "Open app",
-          "description": "**Onchain Monsters staking interface** - we bought a few of these NFTs back in the day and realised there is no easy way to stake and claim \"Dough\", so we built it ourselves 👹",
+          "description": "**Onchain Monsters staking interface** - we bought a few of these NFTs back in the day and realized there is no easy way to stake and claim \"Dough\", so we built it ourselves 👹",
           "mediaUrl": "/assets/app-ocm.png"
         },
         {
@@ -140,10 +140,57 @@
         {
           "buttonTarget": "https://www.tokenpage.xyz/hub",
           "buttonText": "Learn more",
-          "description": "**Community Hub** - Most NFT projects have marketplaces as their main interaction point. We created branded & customisable hubs for communities to change that 🌆",
+          "description": "**Community Hub** - Most NFT projects have marketplaces as their main interaction point. We created branded & customizable hubs for communities to change that 🌆",
           "mediaUrl": "/assets/gallery-banner.png"
         }
       ]
+    },
+    {
+      "type": "buttons-1",
+      "titleText": "Heard enough?",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "buttons": [
+        {
+          "mode": "primary",
+          "text": "Let's BUILD together",
+          "target": "#contact",
+          "iconIdRight": "ion-chatbox"
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "autoplaySeconds": 200,
+      "slides": [
+        {
+          "text": "The Token Page team helped us deploy our claimable token for existing holders. The smart contract was clean, tested, performant and provided an incredibly smooth experience for our users. We came to them with extremely tight timelines when our previous developers failed to deliver the quality we required. The Token Page team delivered a working prototype in a matter of days and a high-quality production ready system well within our demanding timeline. We'd definitely recommend working with them.",
+          "authorName": "[@HBAcrypto](https://twitter.com/HBAcrypto)",
+          "authorTitle": "Fishy Fam NFT Founder",
+          "authorImageUrl": "/assets/avatar-fishyfam-hba.png"
+        },
+        {
+          "text": "The team at Token Page were essential in helping us build a minting experience that had never been seen before, and even took the mint to new heights with their expertise, enabling us to register every single quiz answer anyone provided permanently on the Ethereum blockchain. \n\nWe've already explored using that data in our next stages of development, and the Token Page team assisted us massively in doing so. They've always been a huge help toward Sprite Club, and they will always be the first Team we approach when exploring future developments of the project.",
+          "authorName": "[@NonFungibleDon](https://twitter.com/NonFungibleDon)",
+          "authorTitle": "Sprite Club NFT Founder",
+          "authorImageUrl": "/assets/avatar-spriteclub-don.png"
+        },
+        {
+          "text": "We worked with the talented engineers at Token Page to get an extra pair of eyes during our contract audits. They were quick and easy to work with and we've stayed in touch talking tech ever since!",
+          "authorName": "[@backuardo](https://twitter.com/backuardo)",
+          "authorTitle": "[Cameo](https://pass.cameo.com) web3 team",
+          "authorImageUrl": "/assets/avatar-cameo-backuardo.png"
+        },
+        {
+          "text": "We worked with the Token Page team to created the token-gating for our community. We had the whole thing deployed in a couple of weeks. We would happily work with them again!",
+          "authorName": "[@mintcalwilson](https://twitter.com/mintcalwilson)",
+          "authorTitle": "Mint Media Founder",
+          "authorImageUrl": "/assets/avatar-mintmedia-wilson.png"
+        }
+      ],
+      "titleText": "Hear from the people we work with 🥰",
+      "subtitleText": null
     },
     {
       "id": "contact",
