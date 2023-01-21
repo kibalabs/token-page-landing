@@ -1,0 +1,123 @@
+{
+  "name": "Token Page - Gas Buddy",
+  "tagline": "Ethereum Gas Prices in your Browser⛽️",
+  "description": "Tired of opening up a new tab to check Ethereum Gas prices? Gas Buddy gives you gas prices right in your Browser!",
+  "keywords": [],
+  "company": "Token Page",
+  "companyUrl": "https://www.tokenpage.xyz",
+  "faviconImageUrl": "/assets/favicon.png",
+  "socialCardImageUrl": "/assets/gas-buddy-logo.png",
+  "shouldHideAttribution": true,
+  "siteHost": "www.tokenpage.xyz",
+  "plugins": [
+    {
+      "type": "everyview-analytics",
+      "applicationId": "c4738361e6c34a6c805c9fdac352a04e"
+    }
+  ],
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero-buttons-1",
+      "logoImageUrl": "/assets/gas-buddy-logo.png",
+      "titleText": "Tired of opening up a new tab to check Ethereum Gas prices? ⛽️ \n\n Gas Buddy gives you gas prices right in your Browser! 🚀",
+      "subtitleText": "",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "buttons": [
+        {
+          "mode": "secondary",
+          "text": "Learn more",
+          "target": "#about"
+        },
+        {
+          "mode": "primary",
+          "text": "Get Gas Buddy now!",
+          "target": "http://gasbuddy.tokenpage.xyz",
+          "iconIdRight": "ion-download-outline"
+        }
+      ]      
+    },
+    {
+      "id": "about",
+      "type": "feature-media-half-1",
+      "titleText": "How expensive is Ethereum right now?",
+      "bodyText": "We always found ourselves opening up a new tab to check Ethereum gas prices. \n\n So we created Gas Buddy! A browser extension that gives you the price of Ether and gas right at your fingertips!🔥",
+      "rightMediaUrl": "/assets/gas-buddy-1.jpeg"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "How does it work?",
+      "bodyText": "Whenever you have your wallet connected to a website Gas Buddy will show up in the browser to keep you up to date! \n\n Gas Buddy shows the current: ⛽️ Normal Transaction cost in gwei; ⚡️ Fast Transaction cost in gwei; ＄ Ethereum price in US Dollars.",
+      "leftMediaUrl": "/assets/gas-buddy-2.jpeg"
+    },
+    {
+      "type": "feature-media-half-1",      
+      "titleText": "One click away!",    
+      "bodyText": "With Gas Buddy prices are always at most one click away. 👈 \n\n You can click on the extension button in the top bar whenever you want to get hold of Gas prices or just check on the bottom right corner of the website!",
+      "rightMediaUrl": "/assets/gas-buddy-3.jpeg"
+    },
+    {
+      "type": "buttons-1",
+      "titleText": "Heard enough?",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "buttons": [
+        {
+          "mode": "primary",
+          "text": "Get Gas Buddy Now!",
+          "target": "http://gasbuddy.tokenpage.xyz",
+          "iconIdRight": "ion-download-outline"
+        }
+      ]
+    },
+    {
+      "id": "hero",
+      "type": "hero-buttons-1",      
+      "titleText": "You want to build something in Web3 and are looking for expert help? 🤔",
+      "subtitleText": "We at Token Page have been building in Web3 for close to 3 years with combined clients mints worth over $10m. 💸💸 \n\n Your size doesn't matter, we've worked with big brands and niche artists, and built countless apps along the way.",
+      "buttons": [
+        {
+          "mode": "secondary",
+          "text": "Learn more",
+          "target": "https://www.tokenpage.xyz"
+        }
+      ]      
+    },
+    {
+      "type": "footer-1",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "iconLinks": [
+        {
+          "iconId": "ion-logo-twitter",
+          "label": "Twitter",
+          "target": "https://twitter.com/tokenpagexyz"
+        },
+        {
+          "iconId": "ion-logo-discord",
+          "label": "Discord",
+          "target": "https://discord.gg/bUeQjW4KSN"
+        },
+        {
+          "iconId": "ion-logo-github",
+          "label": "GitHub",
+          "target": "https://github.com/kibalabs"
+        },
+        {
+          "iconId": "ion-logo-linkedin",
+          "label": "LinkedIn",
+          "target": "https://linkedin.com/company/token-page"
+        },
+        {
+          "iconId": "ion-newspaper",
+          "label": "Blog",
+          "target": "https://blog.tokenpage.xyz"          
+        }
+      ]
+    }
+  ]
+}
