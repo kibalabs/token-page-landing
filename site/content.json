@@ -1,7 +1,7 @@
 {
   "name": "Token Page",
   "tagline": "Building web3 for communities ⚡⚡️",
-  "description": "We're experienced product builders helping to define and grow the web3 experience. We work with the best communities (including our own) to bring projects and their biggest asset, their communities, closer than ever.",
+  "description": "We're experienced product and software builders who work with big brands and niche artists alike to define and grow the web3 experience.",
   "keywords": [],
   "company": "Token Page",
   "companyUrl": "https://www.tokenpage.xyz",
@@ -21,8 +21,9 @@
     {
       "id": "hero",
       "type": "hero-buttons-1",
-      "titleText": "Building web3 for communities ⚡⚡️",
-      "subtitleText": "We're experienced product builders and software developers helping to define and grow the web3 experience. We work with the best communities (including our own) to bring projects and their biggest asset, their communities, closer than ever.",
+      "logoImageUrl": "/assets/logo-bordered.png",
+      "titleText": "Building Web3 for Communities ⚡⚡️",
+      "subtitleText": "You've built a successful Web3 community with a huge social media following? \n\n Or you've just begun in Web3 and aren't sure where to start? \n\n No matter your size, we're here to help! \n\n We're experienced product and software builders who work with big brands and niche artists alike to define and grow the Web3 experience.",
       "background": {
         "imageUrl": "/assets/bg.svg"
       },
@@ -33,8 +34,7 @@
           "target": "#contact",
           "iconIdRight": "ion-chatbox"
         }
-      ],
-      "logoImageUrl": "/assets/logo-bordered.png"
+      ]      
     },
     {
       "type": "buttons-1",
@@ -162,40 +162,69 @@
     },
     {
       "type": "testimonial-slides-1",
-      "autoplaySeconds": 200,
+      "titleText": "Hear from the people we work with 🥰",
       "slides": [
         {
           "text": "The Token Page team helped us deploy our claimable token for existing holders. The smart contract was clean, tested, performant and provided an incredibly smooth experience for our users. We came to them with extremely tight timelines when our previous developers failed to deliver the quality we required. The Token Page team delivered a working prototype in a matter of days and a high-quality production ready system well within our demanding timeline. We'd definitely recommend working with them.",
           "authorName": "[@HBAcrypto](https://twitter.com/HBAcrypto)",
           "authorTitle": "Fishy Fam NFT Founder",
           "authorImageUrl": "/assets/avatar-fishyfam-hba.png"
-        },
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
         {
           "text": "The team at Token Page were essential in helping us build a minting experience that had never been seen before, and even took the mint to new heights with their expertise, enabling us to register every single quiz answer anyone provided permanently on the Ethereum blockchain. \n\nWe've already explored using that data in our next stages of development, and the Token Page team assisted us massively in doing so. They've always been a huge help toward Sprite Club, and they will always be the first Team we approach when exploring future developments of the project.",
           "authorName": "[@NonFungibleDon](https://twitter.com/NonFungibleDon)",
           "authorTitle": "Sprite Club NFT Founder",
           "authorImageUrl": "/assets/avatar-spriteclub-don.png"
-        },
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
         {
           "text": "We worked with the talented engineers at Token Page to get an extra pair of eyes during our contract audits. They were quick and easy to work with and we've stayed in touch talking tech ever since!",
           "authorName": "[@backuardo](https://twitter.com/backuardo)",
           "authorTitle": "[Cameo](https://pass.cameo.com) web3 team",
           "authorImageUrl": "/assets/avatar-cameo-backuardo.png"
-        },
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
         {
           "text": "We worked with the Token Page team to created the token-gating for our community. We had the whole thing deployed in a couple of weeks. We would happily work with them again!",
           "authorName": "[@mintcalwilson](https://twitter.com/mintcalwilson)",
           "authorTitle": "Mint Media Founder",
           "authorImageUrl": "/assets/avatar-mintmedia-wilson.png"
         }
-      ],
-      "titleText": "Hear from the people we work with 🥰",
-      "subtitleText": null
+      ]
+    },
+    {
+      "type": "buttons-1",
+      "titleText": "Heard enough?",
+      "background": {
+        "imageUrl": "/assets/bg.svg"
+      },
+      "buttons": [
+        {
+          "mode": "primary",
+          "text": "Let's BUILD together",
+          "target": "#contact",
+          "iconIdRight": "ion-chatbox"
+        }
+      ]
     },
     {
       "id": "contact",
       "type": "calendly-booking-1",
       "titleText": "Let's BUILD together 👷‍♂️",
+      "subtitleText": "Book a call with us on Calendly",
       "username": "d/dn7-npm-xdb",
       "calendarId": "token-page-intro",
       "shouldHideEventType": false,
@@ -207,6 +236,7 @@
       "id": "contact-1",
       "type": "contact-1",
       "titleText": "Or we can reach out to you...",
+      "subtitleText": "If you prefer, send us a message about yourself and what you are building and we'll get back asap.",
       "inputButtonText": "Send",
       "isPhoneNumberOptional": true,
       "formAction": "POST",
