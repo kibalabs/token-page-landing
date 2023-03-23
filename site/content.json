@@ -11,6 +11,13 @@
   "siteHost": "www.tokenpage.xyz",
   "twitterUsername": "tokenpagexyz",
   "shouldUseGeneratedFavicons": false,
+  "additionalMetaTags": [{
+    "tagName": "meta",
+    "attributes": {
+      "name": "ahrefs-site-verification",
+      "content": "a3023b147a43620661343c066e99f489fb5c806d21df477f183a30c2428ab64b"
+    }
+  }],
   "plugins": [
     {
       "type": "everyview-analytics",
@@ -34,7 +41,7 @@
           "target": "#contact",
           "iconIdRight": "ion-chatbox"
         }
-      ]      
+      ]
     },
     {
       "type": "buttons-1",
