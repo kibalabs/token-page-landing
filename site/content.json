@@ -30,7 +30,7 @@
       "type": "hero-buttons-1",
       "logoImageUrl": "/assets/logo-bordered.png",
       "titleText": "Building Web3 for Communities ⚡⚡️",
-      "subtitleText": "You've **built a successful Web3 community** with a huge social media following? \n\n Or you've just begun in Web3 and **aren't sure where to start?** \n\n **No matter your size, we're here to help!** \n\n We're **experienced product and software builders** who work with big brands and niche artists alike to define and develop the Web3 experience.",
+      "subtitleText": "You've **built a successful Web3 community** with a huge social media following? \n\n Or you've just begun in Web3 and **aren't sure where to start?** \n\n **No matter your size, we're here to help!** \n\n We're **experienced product and software builders** who work with **big brands and niche artists** alike to define and develop the Web3 experience.",
       "background": {
         "imageUrl": "/assets/bg.svg"
       },
@@ -50,31 +50,38 @@
     },
     {
       "type": "feature-media-half-1",
-      "titleText": "Sprite Club 🍄",
-      "subtitleText": "The first ever choose your own adventure NFT mint",
-      "bodyText": "[Sprite Club](https://spriteclubnft.com) has one of the most unique minting experiences in the NFT space. It was the first ever choose-your-own-adventure mint, where the Sprite NFT you got was determined by your [answers to the quiz](https://spriteclubnft.com/prologue).\n\nWe joined the Sprite Club team when it was just an early concept and implemented everything technical to the point where their first drop completely minted out netting over $1.5m in ETH! We built an [incredibly gas efficient custom contract](https://medium.com/@SpriteClub/sprites-minting-contract-an-erc721s-solution-7c99831a2447) and made it extendable for their future in-world experiences.",
-      "rightMediaUrl": "/assets/sprites.mp4"
-    },
-    {
-      "type": "feature-media-half-1",
-      "titleText": "Cold Blooded Creepz 🦎",
-      "subtitleText": "Building out a creepy web3 universe",
-      "bodyText": "The ever-growing [Creepz](https://creepz.co) universe is one of the most engaging experiences in web3. We joined their team shortly before their genesis mint and have since implement some incredible experiences.\n\nWith Creepz we used our past experience to help scale to on and off-chain experiences which were seamless for users and the rest of the team.",
-      "leftMediaUrl": "/assets/creepz.mp4"
-    },
-    {
-      "type": "feature-media-half-1",
-      "titleText": "Mint Media 👨‍👨‍👧‍👧",
-      "subtitleText": "A next-generation token-gated community",
-      "bodyText": "[Mint Media](https://mintcalendar.com) is a new age Web3 community - all online and powered by NFTs. We helped the team transition from a private discord to a token-gated community with a clean contract and minting experience and elegant discord token-gating.\n\n",
-      "rightMediaUrl": "/assets/mintmedia.mp4"
+      "titleText": "SwapShop 🐑",
+      "subtitleText": "Seedphrase recharges your Wolf Game sheep",
+      "bodyText": "[Swapshop](https://swapshop.pro/) is [Seedphrase](https://seedphrase.com/)'s sheep swapping service for Wolf Game where you can instantly swap your tired old sheep for a new fully charged one, putting his in-game bath houses to great use!\n\nWe designed and developed Swapshop from concept to release with Seedphrase and [GoldenPalm](https://twitter.com/GoldenPalm__), and have been building together since on their GameFi vision.",
+      "rightMediaUrl": "/assets/swapshop.mp4"
     },
     {
       "type": "feature-media-half-1",
       "titleText": "Rude Boys 🎨",
-      "subtitleText": "A web3-native 3D art collection",
+      "subtitleText": "Web3-native 3D art collectibles",
       "bodyText": "[Trym Ruud](https://trymruud.com/) created the first ever 3D collectible toys nft on Ethereum in 2021. We helped to build out the [Rude Boys](https://rudeboys.io) experience by creating a custom minting and management solution for the NFTs, an amazing collector experience via the [Hub](https://www.tokenpage.xyz/hub) and a first-of-its-kind rewards system for dedicated collectors.\n\n",
       "leftMediaUrl": "/assets/rudeboys.mp4"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "Cold Blooded Creepz 🦎",
+      "subtitleText": "Creepy web3 universe",
+      "bodyText": "The ever-growing [Creepz](https://creepz.co) universe is one of the most engaging experiences in web3. We joined their team shortly before their genesis mint and have since implement some incredible experiences.\n\nWith Creepz we used our past experience to help scale to on and off-chain experiences which were seamless for users and the rest of the team.",
+      "rightMediaUrl": "/assets/creepz.mp4"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "Sprite Club 🍄",
+      "subtitleText": "First ever choose your own adventure NFT mint",
+      "bodyText": "[Sprite Club](https://spriteclubnft.com) has one of the most unique minting experiences in the NFT space. It was the first ever choose-your-own-adventure mint, where the Sprite NFT you got was determined by your [answers to the quiz](https://spriteclubnft.com/prologue).\n\nWe joined the Sprite Club team when it was just an early concept and implemented everything technical to the point where their first drop completely minted out netting over $1.5m in ETH! We built an [incredibly gas efficient custom contract](https://medium.com/@SpriteClub/sprites-minting-contract-an-erc721s-solution-7c99831a2447) and made it extendable for their future in-world experiences.",
+      "leftMediaUrl": "/assets/sprites.mp4"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "Mint Media 👨‍👨‍👧‍👧",
+      "subtitleText": "Web3 native token-gated community",
+      "bodyText": "[Mint Media](https://mintcalendar.com) is a new age Web3 community - all online and powered by NFTs. We helped the team transition from a private discord to a token-gated community with a clean contract and minting experience and elegant discord token-gating.\n\n",
+      "rightMediaUrl": "/assets/mintmedia.mp4"
     },
     {
       "type": "buttons-1",
@@ -172,6 +179,28 @@
       "titleText": "Hear from the people we work with 🥰",
       "slides": [
         {
+          "text": "We'd raised $1m and needed an MVP to bring to market quick. The Token Page guys took our design, fleshed it out and rapidly built the first version and then the extension to it in a matter of weeks. They had a great understanding of the product and a high bar for delivery. I'd highly recommend working with them and will be sending more early-stage founders in their direction.",
+          "authorName": "[@ashprabaker](https://twitter.com/ashprabaker)",
+          "authorTitle": "Frontdoor Founder",
+          "authorImageUrl": "/assets/avatar-ashfrontdoor.jpg"
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
+        {
+          "text": "I worked with the guys at Token Page to create a whole new chapter for my flagship RudeBoys collection. Together, we created a whole new brand and experience for my flagship collectors. They helped me go from relying on external products like Rarible to being fully in control of my own collection. They were great at fleshing out my ideas and were very pro-active in their approach, always suggesting cool new ideas as well. I'm very happy with their work and would definitely recommend them for web3 work.",
+          "authorName": "[@TrymRuud](https://twitter.com/TrymRuud)",
+          "authorTitle": "Rude Boys Creator",
+          "authorImageUrl": "/assets/avatar-trym-ruud.jpg"
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
+        {
           "text": "The Token Page team helped us deploy our claimable token for existing holders. The smart contract was clean, tested, performant and provided an incredibly smooth experience for our users. We came to them with extremely tight timelines when our previous developers failed to deliver the quality we required. The Token Page team delivered a working prototype in a matter of days and a high-quality production ready system well within our demanding timeline. We'd definitely recommend working with them.",
           "authorName": "[@HBAcrypto](https://twitter.com/HBAcrypto)",
           "authorTitle": "Fishy Fam NFT Founder",
@@ -183,10 +212,10 @@
       "type": "testimonial-slides-1",
       "slides": [
         {
-          "text": "The team at Token Page were essential in helping us build a minting experience that had never been seen before, and even took the mint to new heights with their expertise, enabling us to register every single quiz answer anyone provided permanently on the Ethereum blockchain. \n\nWe've already explored using that data in our next stages of development, and the Token Page team assisted us massively in doing so. They've always been a huge help toward Sprite Club, and they will always be the first Team we approach when exploring future developments of the project.",
-          "authorName": "[@NonFungibleDon](https://twitter.com/NonFungibleDon)",
-          "authorTitle": "Sprite Club NFT Founder",
-          "authorImageUrl": "/assets/avatar-spriteclub-don.png"
+          "text": "We worked with the Token Page team to created the token-gating for our community. We had the whole thing deployed in a couple of weeks. We would happily work with them again!",
+          "authorName": "[@mintcalwilson](https://twitter.com/mintcalwilson)",
+          "authorTitle": "Mint Media Founder",
+          "authorImageUrl": "/assets/avatar-mintmedia-wilson.png"
         }
       ]
     },
@@ -205,10 +234,21 @@
       "type": "testimonial-slides-1",
       "slides": [
         {
-          "text": "We worked with the Token Page team to created the token-gating for our community. We had the whole thing deployed in a couple of weeks. We would happily work with them again!",
-          "authorName": "[@mintcalwilson](https://twitter.com/mintcalwilson)",
-          "authorTitle": "Mint Media Founder",
-          "authorImageUrl": "/assets/avatar-mintmedia-wilson.png"
+          "text": "The team at Token Page were essential in helping us build a minting experience that had never been seen before, and even took the mint to new heights with their expertise, enabling us to register every single quiz answer anyone provided permanently on the Ethereum blockchain. \n\nWe've already explored using that data in our next stages of development, and the Token Page team assisted us massively in doing so. They've always been a huge help toward Sprite Club, and they will always be the first Team we approach when exploring future developments of the project.",
+          "authorName": "[@NonFungibleDon](https://twitter.com/NonFungibleDon)",
+          "authorTitle": "Sprite Club NFT Founder",
+          "authorImageUrl": "/assets/avatar-spriteclub-don.png"
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
+        {
+          "text": "We came to Token Page with just an idea and came out with a fully designed and spec’d product. They were able to work fast and deliver a high quality design from a PDF and few regular calls. The speed and quality of their work was unmatched, and they went further than a normal agency by questioning many of our original assumptions to help guide us on building our first MVP.",
+          "authorName": "[@Elixir](https://twitter.com/0xpearls)",
+          "authorTitle": "Elixir Founders",
+          "authorImageUrl": "/assets/avatar-elixir.png"
         }
       ]
     },
