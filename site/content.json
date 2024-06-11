@@ -50,6 +50,20 @@
     },
     {
       "type": "feature-media-half-1",
+      "titleText": "Zen Swap 🔮",
+      "subtitleText": "Denizen NFT swapping app",
+      "bodyText": "[Zen Swap](https://swap.zenacademy.com/) is [Zen Academy's](https://zenacademy.com/)'s NFT swapping app where you can instantly swap your Denizen NFTs with other NFTs in the community's swap wallet.\n\nWe designed and developed it in collaboration with [Zeneca](https://twitter.com/zeneca) for his community and it's become a popular way for Denizens to find their ideal PFP.",
+      "rightMediaUrl": "/assets/zenswap.png"
+    },
+    {
+      "type": "feature-media-half-1",
+      "titleText": "Sensay 🤖",
+      "subtitleText": "$SNSY token launch",
+      "bodyText": "[Sensay](https://sensay.io/) is an innovative Web3 startup with a grand vision to acheive Digital Immortality through AI digital replicas!\n\nWe worked together with them to develop and launch their [SNSY](https://www.snsy.ai/) ecosystem token and helped them raise over $3m. We built the token to be cross-chain on Ethereum, Base and Arbitrum through the use of Layer Zero technology.",
+      "leftMediaUrl": "/assets/sensay.png"
+    },
+    {
+      "type": "feature-media-half-1",
       "titleText": "SwapShop 🐑",
       "subtitleText": "Seedphrase recharges your Wolf Game sheep",
       "bodyText": "[Swapshop](https://swapshop.pro/) is [Seedphrase](https://seedphrase.com/)'s sheep swapping service for Wolf Game where you can instantly swap your tired old sheep for a new fully charged one, putting his in-game bath houses to great use!\n\nWe designed and developed Swapshop from concept to release with Seedphrase and [GoldenPalm](https://twitter.com/GoldenPalm__), and have been building together since on their GameFi vision.",
@@ -179,10 +193,21 @@
       "titleText": "Hear from the people we work with 🥰",
       "slides": [
         {
-          "text": "We'd raised $1m and needed an MVP to bring to market quick. The Token Page guys took our design, fleshed it out and rapidly built the first version and then the extension to it in a matter of weeks. They had a great understanding of the product and a high bar for delivery. I'd highly recommend working with them and will be sending more early-stage founders in their direction.",
-          "authorName": "[@ashprabaker](https://twitter.com/ashprabaker)",
-          "authorTitle": "Frontdoor Founder",
-          "authorImageUrl": "/assets/avatar-ashfrontdoor.jpg"
+          "text": "We'd worked with Arthur before on the '30 Days of NFT Tech' course that we released as a collaboration between Token Page and Zen Academy. When I announced our plan for Zen Academy NFT holders to swap their Denizen NFTs with ours, Arthur suggested we collaborate again, this time on automating the NFT swapping process. The Token Page team designed and developed the app in a matter of weeks creating something that both I and the community were really impressed with. I would highly recommend Arthur and his team to other entrepreneurs in the space.",
+          "authorName": "[@Zeneca](https://twitter.com/Zeneca)",
+          "authorTitle": "Zen Academy Founder",
+          "authorImageUrl": "/assets/avatar-zeneca.jpg"
+        }
+      ]
+    },
+    {
+      "type": "testimonial-slides-1",
+      "slides": [
+        {
+          "text": "We worked with Krishan from TokenPage through the first two seasons of Creepz. He worked with our inhouse engineering to support with smart contracts, back-end development and website builds. We had 5 incredibly successful launches, loved by our large community and the web3 community as a whole. We'd be happy to recommend the best teams to work with TokenPage and expect great outcomes.",
+          "authorName": "[@jo3car](https://twitter.com/jo3car)",
+          "authorTitle": "Overlord / Creepz Founder",
+          "authorImageUrl": "/assets/avatar-joe-creepz.jpg"
         }
       ]
     },
@@ -201,13 +226,24 @@
       "type": "testimonial-slides-1",
       "slides": [
         {
-          "text": "We worked with Krishan from TokenPage through the first two seasons of Creepz. He worked with our inhouse engineering to support with smart contracts, back-end development and website builds. We had 5 incredibly successful launches, loved by our large community and the web3 community as a whole. We'd be happy to recommend the best teams to work with TokenPage and expect great outcomes.",
-          "authorName": "[@jo3car](https://twitter.com/jo3car)",
-          "authorTitle": "Overlord / Creepz Founder",
-          "authorImageUrl": "/assets/avatar-joe-creepz.jpg"
+          "text": "We worked with Arthur from TokenPage on developing and releasing our $SNSY token. He got involved early on, even before the token was conceived, and helped articulate its use, develop and release the token, and then extend it cross-chain across three different blockchains. Arthur was meticulous in his planning making sure there was no margin for error and in the end we raised over $3m from the token sale. I'd highly recommend him and his team to anyone else looking to release their own token.",
+          "authorName": "[@Dan Thomson](https://twitter.com/vagrantcrypto)",
+          "authorTitle": "Sensay Founder",
+          "authorImageUrl": "/assets/avatar-dan-thomson.jpg"
         }
       ]
     },
+    {
+      "type": "testimonial-slides-1",      
+      "slides": [
+        {
+          "text": "We'd raised $1m and needed an MVP to bring to market quick. The Token Page guys took our design, fleshed it out and rapidly built the first version and then the extension to it in a matter of weeks. They had a great understanding of the product and a high bar for delivery. I'd highly recommend working with them and will be sending more early-stage founders in their direction.",
+          "authorName": "[@ashprabaker](https://twitter.com/ashprabaker)",
+          "authorTitle": "Frontdoor Founder",
+          "authorImageUrl": "/assets/avatar-ashfrontdoor.jpg"
+        }
+      ]
+    },    
     {
       "type": "testimonial-slides-1",
       "slides": [
